@@ -4,7 +4,7 @@ It allows to generate subtitles from a video or an audio and save it in `.srt` f
 
 ## Get Started
 
-The script can be run on CPU or GPU. It is recommended to use base or medium models to run the script on CPU. Besides, one can use Google Colab (see [notebook](https://github.com/slayyedguy/open-captions/notebooks/subtitles_generator.ipynb)).
+The script can be run on CPU or GPU. It is recommended to use base or medium models to run the script on CPU. Besides, one can use Google Colab (see [notebook](https://github.com/SlayyedGuy/open-captions/blob/main/notebooks/subtitles_generator.ipynb)).
 
 ### Installation
 
