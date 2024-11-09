@@ -8,7 +8,7 @@ The script can be run on CPU or GPU. It is recommended to use base or medium mod
 
 ### Installation
 
-1. Clone the repository `git clone https://github.com/slayyedguy/subtitles-generator.git`
+1. Clone the repository `git clone https://github.com/slayyedguy/open-captions.git`
 
 2. Install requirements with command `pip install .` from the repository root
 
